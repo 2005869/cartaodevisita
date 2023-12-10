@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cartão de Visita</string>
+    <string name="nome">Coelhinho da Pascoa</string>
+    <string name="profissao">Distribuidor de Ovos da Páscoa</string>
 </resources>
